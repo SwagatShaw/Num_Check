@@ -1,4 +1,4 @@
-int palindrome()
+int func_palindrome()
 {
      int n, a, digit, rev = 0;
 
